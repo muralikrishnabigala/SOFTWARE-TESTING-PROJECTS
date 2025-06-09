@@ -49,7 +49,7 @@ This repository contains manual test cases written for **Battlegrounds Mobile In
 
 ---
 
-## 📸 Screenshots / Evidence (optional)
+## 📸 Screenshots / Evidence 
 Add screenshots or screen recordings of your test execution here.
 
 ---
